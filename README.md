@@ -19,6 +19,9 @@
   
 - ⚡ Fun fact **I can play guitar 🎸**  
   
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=10samarth&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10samarth&show_icons=true&theme=radical)
+
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://twitter.com/10samarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="10samarth" height="30" width="40" /></a>  
