@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarth Goudar</h1>  
 <h3 align="center">I'm a graduate student at San Jose State University pursuing my Master of Science in Computer Engineering. I'm a passionate Full Stack Software Developer 🚀 having experience building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and other cool libraries and frameworks.</h3>  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=10samarth&label=Profile%20views&color=0e75b6&style=flat" alt="10samarth" /> </p>  
-  
-<p align="left"> <a href="https://twitter.com/10samarth" target="blank"><img src="https://img.shields.io/twitter/follow/10samarth?logo=twitter&style=for-the-badge" alt="10samarth" /></a> </p>  
-  
+
 - 🌱 I’m currently learning **Machine Learning, Data Science**  
   
 - 👨‍💻 All of my projects are available at [https://10samarth.com/](https://10samarth.com/)  
@@ -22,6 +19,11 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=10samarth&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10samarth&show_icons=true&theme=radical)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=10samarth&label=Profile%20views&color=0e75b6&style=flat" alt="10samarth" /> </p>  
+  
+<p align="left"> <a href="https://twitter.com/10samarth" target="blank"><img src="https://img.shields.io/twitter/follow/10samarth?logo=twitter&style=for-the-badge" alt="10samarth" /></a> </p>  
+  
+  
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://twitter.com/10samarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="10samarth" height="30" width="40" /></a>  
