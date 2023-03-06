@@ -8,11 +8,11 @@
   
 - 📝 I regularly write articles on [https://10samarth.blogspot.com/](https://10samarth.blogspot.com/)  
   
-- 💬 Ask me about **React, Javascript, C++**  
+- 💬 Ask me about **React, Angular, Javascript, C++**  
   
 - 📫 How to reach me **samarthmg@gmail.com**  
   
-- 📄 Know about my experiences [https://drive.google.com/file/d/157pDLufDXJTP-eq7FHy9yNAs7SrIyiWX/view](https://drive.google.com/file/d/157pDLufDXJTP-eq7FHy9yNAs7SrIyiWX/view)  
+- 📄 Know about my experiences [https://10samarth.com/](https://10samarth.com/)   
   
 - ⚡ Fun fact **I can play guitar 🎸**  
   
