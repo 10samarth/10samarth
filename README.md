@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samarth Goudar</h1>  
-<h3 align="center">I'm a graduate student at San Jose State University pursuing my Master of Science in Computer Engineering. I'm a passionate Full Stack Software Developer 🚀 having experience building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and other cool libraries and frameworks.</h3>  
+<h3 align="center">I am a software engineer who recently graduated from San Jose State University with a Master of Science in Computer Engineering. I'm a passionate Full Stack Software Developer 🚀 having experience building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and other cool libraries and frameworks.</h3>  
   
 
 - 🌱 I’m currently learning **Machine Learning, Data Science**  
