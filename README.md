@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science**  
   
-- 👨‍💻 All of my projects are available at [https://10samarth.com/](https://10samarth.com/)  
+- 👨‍💻 All of my projects are available at [https://github.com/10samarth](https://github.com/10samarth)
   
-- 📝 I regularly write articles on [https://blogs.10samarth.com/](https://blogs.10samarth.com/)
+- 📝 I regularly write articles on [https://blogs.10samarth.com/](https://10samarth.com/)
   
-- 💬 Ask me about **React, Angular, Javascript, C++**  
+- 💬 Ask me about **Next, React, Angular, Javascript, C++**  
   
 - 📫 How to reach me **samarthmg@gmail.com**  
   
