@@ -6,7 +6,7 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/10samarth](https://github.com/10samarth)
   
-- 📝 I regularly write articles on [https://blogs.10samarth.com/](https://10samarth.com/)
+- 📝 I regularly write articles on [https://10samarth.com/](https://10samarth.com/)
   
 - 💬 Ask me about **Next, React, Angular, Javascript, C++**  
   
